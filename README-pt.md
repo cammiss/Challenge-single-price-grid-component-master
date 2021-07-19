@@ -28,7 +28,7 @@ Usuários poderão:
 
 ### Screenshot
 
-![web](C:\Users\rafae\OneDrive\Área de Trabalho\Workspace\single-price-grid-component-master\single-price-grid-component-master\Nova pasta\design-png\web.png)
+![web](C:\Users\rafae\OneDrive\Área de Trabalho\Workspace\single-price-grid-component-master\single-price-grid-component-master\challenge-single-price-grid-component-master\design-png\web.png)
 
 ### Links
 
